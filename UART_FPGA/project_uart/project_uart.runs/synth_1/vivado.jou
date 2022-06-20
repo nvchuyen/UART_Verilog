@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Jun  5 22:54:00 2021
+# Process ID: 37180
+# Current directory: E:/Project/UART/UART_FPGA/project_uart/project_uart.runs/synth_1
+# Command line: vivado.exe -log uart_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source uart_top.tcl
+# Log file: E:/Project/UART/UART_FPGA/project_uart/project_uart.runs/synth_1/uart_top.vds
+# Journal file: E:/Project/UART/UART_FPGA/project_uart/project_uart.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source uart_top.tcl -notrace
